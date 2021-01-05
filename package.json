@@ -12,7 +12,7 @@
     "electron_build": "electron-packager ./dist/ --platform=win32 --arch=ia32  --icon=./src/assets/hcf.ico  --overwrite"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "electron": "^5.0.6",
     "electron-packager": "^14.0.1",
     "element-ui": "^2.10.0",
